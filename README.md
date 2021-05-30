@@ -6,7 +6,7 @@ A simple API for examples
 
 ### Usage
 
-##### Copy the Rename the .env.example file
+##### Rename the .env.example file
 `mv .env.example .env`
 
 ##### Install dependencies
